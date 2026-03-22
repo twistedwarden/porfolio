@@ -32,7 +32,7 @@ export function ContactSection() {
                 <p className="label-caps text-muted mb-2">Email</p>
                 <MagneticButton strength={0.3}>
                   <a
-                    href="mailto:mahusaycchristian@gmail.com"
+                    href="mailto:dev.cmahusay@gmail.com"
                     className="display-serif text-xl text-text border-b-2 border-accent pb-0.5 hover:text-accent transition-colors duration-200"
                   >
                     mahusaycchristian@gmail.com
