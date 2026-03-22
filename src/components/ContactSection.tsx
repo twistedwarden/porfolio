@@ -35,7 +35,7 @@ export function ContactSection() {
                     href="mailto:dev.cmahusay@gmail.com"
                     className="display-serif text-xl text-text border-b-2 border-accent pb-0.5 hover:text-accent transition-colors duration-200"
                   >
-                    mahusaycchristian@gmail.com
+                    dev.cmahusay@gmail.com
                   </a>
                 </MagneticButton>
               </div>
@@ -87,7 +87,7 @@ export function ContactSection() {
 
               <MagneticButton strength={0.25}>
                 <a
-                  href="mailto:mahusaycchristian@gmail.com"
+                  href="mailto:dev.cmahusay@gmail.com"
                   className="nav-link inline-block px-6 py-3 border border-accent text-accent hover:bg-accent hover:text-white transition-all duration-200 rounded-sm"
                 >
                   Send a Message

@@ -9,7 +9,7 @@ Address: 2495 La Mesa St. Ugong Valenzuela City,
 
 Contact:
 Phone/Viber: 09195987031
-email: mahusaycchristian@gmail.com
+email: dev.cmahusay@gmail.com
 
 Eduction:
 Primary: 2010 - 2016
